@@ -1,0 +1,22 @@
+/*définissez la classe CSS brushing dans un fichier CSS nommé style.css
+une police de caractères de type Brush au choix (voir Google Fonts),
+une taille de caractères de 0.8em,
+une bordure supérieure et inférieure en pointillé.*/
+
+.brushing {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 0.8em;
+  border-top: 1px dotted black;
+  border-bottom: 1px dotted black;
+}
+
+/*définissez la classe CSS date-info dans le fichier style.css
+une taille de caractères de 0.6em,
+une couleur de texte grise.*/
+
+.date-info {
+  font-size: 0.6em;
+    color: grey;
+}
+
+
